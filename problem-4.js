@@ -28,7 +28,6 @@
  *   console.log(error.message) → prints only the message (correct!)
  */
 
-'use strict';
 
 function reverseString(s) {
     try {
